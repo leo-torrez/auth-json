@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nome": "Leandro",
+      "email": "leo@leotorrez.com.br",
+      "senha": "123"
+    }
+  ]
+}
